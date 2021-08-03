@@ -5,6 +5,10 @@ int add(int x, int y){
     return x+y;
 }
 
+void basic(){
+    printf("New Branch");
+}
+
 int main(){
     printf("First");
     printf("First changes");
