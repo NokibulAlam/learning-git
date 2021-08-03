@@ -2,5 +2,5 @@
 
 int main(){
     printf("Second");
-    printf("First change");
+    int a,b;
 }
